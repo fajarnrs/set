@@ -9,4 +9,5 @@ tahun 1984 AT&T memisahkan diri dari Bell Lab, sejak itu Bell Lab mulai menjual 
 produk yang berbayar.
 Pada tahun 1983, Richard Stallman memulai GNU Project yang bertujuan untuk menciptakan versi 
 lengkap dari sistem Unix yang seluruhnya memakai software gratis. Di tahun 1985 terciptalah Free 
-Software Foundation dan lisensi umum dari GNU ditulis pada tahun 1989.
+Software Foundation dan lisensi umum dari GNU ditulis pada tahun 198
+ 'LS'{{execute}} Merupakan command untuk mengecek directory
