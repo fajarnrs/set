@@ -10,3 +10,7 @@ produk yang berbayar.
 Pada tahun 1983, Richard Stallman memulai GNU Project yang bertujuan untuk menciptakan versi 
 lengkap dari sistem Unix yang seluruhnya memakai software gratis. Di tahun 1985 terciptalah Free 
 Software Foundation dan lisensi umum dari GNU ditulis pada tahun 1989.
+
+Clone our example repository that contains the set of documentation with the following command:
+
+git clone https://github.com/katacoda/scenario-examples.git katacoda-scenario-examples{{execute}}
