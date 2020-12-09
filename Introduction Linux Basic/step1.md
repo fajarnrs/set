@@ -8,3 +8,9 @@ atau pada windows yaitu berpindah folder
 
 
 
+<<<<<<< HEAD
+=======
+`git clone https://github.com/katacoda/scenario-examples.git katacoda-scenario-examples`{{execute}}
+
+
+>>>>>>> 6ccc6ce597b5ddc62d4aeac896b4a4522ffeecb0
