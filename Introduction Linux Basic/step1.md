@@ -14,8 +14,6 @@ Software Foundation dan lisensi umum dari GNU ditulis pada tahun 1989.
 
 Clone our example repository that contains the set of documentation with the following command:
 
-git clone https://github.com/katacoda/scenario-examples.git katacoda-scenario-examples{{execute}}
-=======
-Software Foundation dan lisensi umum dari GNU ditulis pada tahun 198
- 'LS'{{execute}} Merupakan command untuk mengecek directory
->>>>>>> f51e033e958f9c742753c508492a2c258e14b37b
+`git clone https://github.com/katacoda/scenario-examples.git katacoda-scenario-examples`{{execute}}
+
+
