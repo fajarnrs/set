@@ -1,7 +1,5 @@
->>Q1: Sebutkan perintah untuk melihat user yang digunakan? <<
-( ) whoiam
-(*) whoami
-( ) Whoiam 
+>>Q1: Apa yang akan tampil bila kita ketikan perintah `whoami` ? <<
+=~= root
 
 >>Q2: Apa fungsi dari perintah `lsb_release -i`? <<
 ( ) Menampilkan seluruh informasi dari linux
