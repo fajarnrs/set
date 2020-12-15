@@ -1,12 +1,7 @@
 >>Q1: Apa yang akan tampil bila kita ketikan perintah `whoami` ? <<
 =~= root
 
->>Q2: Apa fungsi dari perintah `lsb_release -i`? <<
-( ) Menampilkan seluruh informasi dari linux
-( ) Menampilkan informasi codename dari linux
-(*) Menampilkan informasi ditribusi id dari linux
-	
->>Q3: Apa fungsi dari perintah `lsb_release -c`? <<
-( ) Menampilkan seluruh informasi dari linux
-(*) Menampilkan informasi codename dari linux
-( ) Menampilkan informasi ditribusi id dari linux
+>>Q2: Menggunakan perintah apa untuk melihat informasi Distribusi ID pada linux ubuntu? <<
+=~= lsb_release -i
+>>Q3: Menggunakan perintah apa untuk melihat informasi codename pada linux ubuntu? <<
+=~= lsb_release -c
