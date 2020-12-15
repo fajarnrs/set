@@ -1,11 +1,12 @@
-
->>Q1: Enter the extract string test<<
-=== test
-
->>Q2: Enter the string containing test<<
-=~= test
-
->>Q3: Multiple Choice <<
-[*] Correct
-[*] Correct
-[ ] Incorrect
+>>Q1: Sebutkan perintah untuk melihat user yang digunakan? <<
+[ ] whoiam
+[*] whoami
+[ ] Whoiam 
+>>Q2: Apa fungsi dari perintah `lsb_release -i`? << 
+[ ] Menampilkan seluruh informasi dari linux
+[ ] Menampilkan informasi codename dari linux
+[*] Menampilkan informasi ditribusi id dari linux
+>>Q3: Apa fungsi dari perintah `lsb_release -c`? <<
+[ ] Menampilkan seluruh informasi dari linux
+[*] Menampilkan informasi codename dari linux
+[ ] Menampilkan informasi ditribusi id dari linux
