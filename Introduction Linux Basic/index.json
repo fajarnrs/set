@@ -7,20 +7,8 @@
   "details": {
     "steps": [
       {
-        "title": "Quiz",
+        "title": "Command Line Linux",
         "text": "step1.md"
-      },
-      {
-        "title": "Step 2",
-        "text": "step2.md"
-      },
-      {
-        "title": "Step 3",
-        "text": "step3.md"
-      },
-      {
-        "title": "Step 4",
-        "text": "step4.md"
       }
     ],
     "intro": {

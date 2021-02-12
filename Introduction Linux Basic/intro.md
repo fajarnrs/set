@@ -1,3 +1,4 @@
-Pada kesempatan kali ini kami akan memperkenalkan dasar linux,
-Dan yang akan kita pelajari adalah tentang linux Ubuntu,<br/>
-Akan dimulai dengan dasar dasar dari linux ubuntu sampai perintah yang digunakan pada linux ubuntu.
+Pada kesempatan kali ini kami akan memperkenalkan dasar perintah linux,
+Untuk materi dapat kalian akses di di link berikut ,
+sedangkan pada web ini digunakan untuk melakukan praktek perintah yang sudah
+dijelaskan di video pada link di atas.
