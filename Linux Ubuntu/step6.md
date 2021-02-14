@@ -1,6 +1,6 @@
 **Sebelum ke perintah dasar**, ada baiknya kita mengenal terminal terlebih dahulu. Terminal ini merupakan sebuah tempat untuk kita mengeksekusi perintah.
 <!-- wp:paragraph -->
-##<p>berikut adalah perintah - perintahnya :</p>
+<p>##berikut adalah perintah - perintahnya :##</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
