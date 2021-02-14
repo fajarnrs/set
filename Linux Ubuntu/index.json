@@ -18,13 +18,16 @@
         "text": "step3.md"
       },
       {
-        "title": "Kelebihan dan Kekurangan",
-		"title": "Kelebihan",
+        "title": "Kelebihan",
         "text": "step4.md"
       },
       {
-        "title": "Step 5",
+        "title": "Kekurangan",
         "text": "step5.md"
+      },
+	  {
+        "title": "Perintah Dasar Linux Ubuntu",
+        "text": "step6.md"
       }
     ],
     "intro": {
