@@ -1,0 +1,1 @@
+Apa Itu Linux Dan Perintah Dasar Linux ~ Pada postingan kali ini Technoboard akan membahas tentang sistem operasi linux, dimulai dari pengertian hingga perintah dasar dari linux.
